@@ -1,0 +1,63 @@
+.btnRS{
+  cursor: pointer;
+  width: 100%;
+  padding: 5px 20px;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #35de47;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #d9d9d9;
+  }
+  .btnRS:hover{
+    background-color: #3e8e41;
+  }
+  .btnRS:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .btn_rst{
+    cursor: pointer;
+    width: 25%;
+    padding: 15px 20px;
+    text-align: center;
+    margin-right: 20px;
+    outline: none;
+    color: #fff;
+    font-size: 15px;
+    background-color: #fc0606;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #d9d9d9;
+  }
+  .btn_rst:hover{
+    background-color: #8a3030;
+  }
+  .btn_rst:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .btn_rs_dn{
+    cursor: pointer;
+  width: 25%;
+  padding: 15px 20px;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: #35de47;
+  border: none;
+  font-size: 15px;
+  border-radius: 15px;
+  box-shadow: 0 9px #d9d9d9;
+  }
+  .btn_rs_dn:hover{
+    background-color: #3e8e41;
+  }
+  .btn_rs_dn:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
